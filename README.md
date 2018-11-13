@@ -29,8 +29,8 @@ From the [Print example][printex]:
 It can also produce a much more verbose, one-item-per-line representation suitable for
 [computing diffs][diffex].  See the documentation for more examples and customization.
 
-[printex]: https://godoc.org/github.com/gostores/debuger/pretty#example-Print
-[diffex]:  https://godoc.org/github.com/gostores/debuger/pretty#example-Compare
+[printex]: https://godoc.org/github.com/govenue/debuger/pretty#example-Print
+[diffex]:  https://godoc.org/github.com/govenue/debuger/pretty#example-Compare
 
 Documentation
 -------------
@@ -41,10 +41,10 @@ Documentation for this package is available at [godoc.org][doc]:
  * Diff:   [![godoc for godebug/diff][diffimg]][diffdoc]
 
 [doc]:       https://godoc.org/
-[prettyimg]: https://godoc.org/github.com/gostores/debuger/pretty?status.png
-[prettydoc]: https://godoc.org/github.com/gostores/debuger/pretty
-[diffimg]:   https://godoc.org/github.com/gostores/debuger/diff?status.png
-[diffdoc]:   https://godoc.org/github.com/gostores/debuger/diff
+[prettyimg]: https://godoc.org/github.com/govenue/debuger/pretty?status.png
+[prettydoc]: https://godoc.org/github.com/govenue/debuger/pretty
+[diffimg]:   https://godoc.org/github.com/govenue/debuger/diff?status.png
+[diffdoc]:   https://godoc.org/github.com/govenue/debuger/diff
 
 Installation
 ------------
@@ -52,7 +52,7 @@ Installation
 These packages are available via `go get`:
 
 ```bash
-$ go get -u github.com/gostores/debuger/{pretty,diff}
+$ go get -u github.com/govenue/debuger/{pretty,diff}
 ```
 
 Other Packages

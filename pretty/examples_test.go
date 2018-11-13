@@ -19,7 +19,7 @@ import (
 	"net"
 	"reflect"
 
-	"github.com/gostores/debuger/pretty"
+	"github.com/govenue/debuger/pretty"
 )
 
 func ExampleConfig_Sprint() {

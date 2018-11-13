@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/gostores/debuger/diff"
+	"github.com/govenue/debuger/diff"
 )
 
 // A Config represents optional configuration parameters for formatting.
